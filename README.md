@@ -1,3 +1,5 @@
+![RUST](https://www.rust-lang.org/logos/rust-logo-256x256.png)
+========
 # The Rust Programming Language
 
 This is the main source code repository for [Rust]. It contains the compiler,
