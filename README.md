@@ -232,6 +232,7 @@ find out how various parts of the compiler work.
 [#rust]: irc://irc.mozilla.org/rust
 [#rust-beginners]: irc://irc.mozilla.org/rust-beginners
 [rustc guide]: https://rust-lang-nursery.github.io/rustc-guide/about-this-guide.html
+https://github.com/vladimiriousIT/RUST-Programming
 
 ## License
 [license]: #license
