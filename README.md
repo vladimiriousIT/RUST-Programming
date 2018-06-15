@@ -29,7 +29,7 @@ Read ["Installation"] from [The Book].
 2. Clone the [source] with `git`:
 
    ```sh
-   $ git clone https://github.com/rust-lang/rust.git
+   $ git clone https://github.com/vladimiriousIT/RUST-Programming
    $ cd rust
    ```
 
