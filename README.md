@@ -200,7 +200,7 @@ If it hits swap, it will take a very long time to build.
 
 There is more advice about hacking on Rust in [CONTRIBUTING.md].
 
-[CONTRIBUTING.md]: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
+[CONTRIBUTING.md]: https://github.com/vladimiriousIT/RUST-Programming/blob/master/CONTRIBUTING.md
 
 ## Getting Help
 [getting-help]: #getting-help
